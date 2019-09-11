@@ -1,0 +1,8 @@
+
+#wrapper{width:480;	margin: 0 auto;}
+#wrapper-header{font-family:'Arial', Helvetica, sans-serif; font-size:60px; color:rgb(200,199,0); text-align:center;}
+#wrapper-content{}
+#content-title{font-family:'Arial', Helvetica, sans-serif; font-size:20px; color:rgb(73, 102, 123);}
+#left{width:200px; float:left;}
+#right{width:280px; float:right;}
+table{	border:0; 	cellpadding:0;	cellspacing:0;	width:568;}
